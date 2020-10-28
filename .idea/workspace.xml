@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5119f441-1c68-4d6b-8e4f-2045f005456a" name="Default Changelist" comment="Переработка ДЗ по замечаниям наставника" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jJDDNickcdVqAHobVeIly4kJ4c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Основы языка Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Основы языка Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_2/task_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_3_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Основы языка Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_2/task_3_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Основы языка Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_2/task_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_5_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Основы языка Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_2/task_5_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Основы языка Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_2/task_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.task_5_1" />
+        <item itemvalue="Python.task_3_1" />
+        <item itemvalue="Python.task_2" />
+        <item itemvalue="Python.task_6" />
+        <item itemvalue="Python.task_5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5119f441-1c68-4d6b-8e4f-2045f005456a" name="Default Changelist" comment="" />
+      <created>1603513181106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603513181106</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Обновил задание №6">
+      <created>1603851092349</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603851092349</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Первые 3 задания во втором уроке">
+      <created>1603856788771</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603856788771</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Вторые 3 задания во втором уроке">
+      <created>1603867916538</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603867916538</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Переработка ДЗ по замечаниям наставника">
+      <created>1603878128449</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603878128449</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Обновил задание №6" />
+    <MESSAGE value="Первые 3 задания во втором уроке" />
+    <MESSAGE value="Вторые 3 задания во втором уроке" />
+    <MESSAGE value="Переработка ДЗ по замечаниям наставника" />
+    <option name="LAST_COMMIT_MESSAGE" value="Переработка ДЗ по замечаниям наставника" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="122" width="424" height="481" key="FileChooserDialogImpl" timestamp="1603900745732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="466" y="122" width="424" height="481" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603900745732" />
+    <state x="496" y="286" key="Github.CreateGistDialog" timestamp="1603900213665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="496" y="286" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1603900213665" />
+    <state x="517" y="264" key="Github.ShareDialog" timestamp="1603900330697">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="264" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1603900330697" />
+    <state x="361" y="72" width="634" height="580" key="Github.UntrackedFilesDialog" timestamp="1603611327626">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="361" y="72" width="634" height="580" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603611327626" />
+    <state width="1345" height="172" key="GridCell.Tab.0.bottom" timestamp="1603900765244">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603900765244" />
+    <state width="1899" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.900@0.0.1920.1040" timestamp="1603878617718" />
+    <state width="1345" height="172" key="GridCell.Tab.0.center" timestamp="1603900765243">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603900765243" />
+    <state width="1899" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.900@0.0.1920.1040" timestamp="1603878617718" />
+    <state width="1345" height="172" key="GridCell.Tab.0.left" timestamp="1603900765243">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603900765243" />
+    <state width="1899" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.900@0.0.1920.1040" timestamp="1603878617718" />
+    <state width="1345" height="172" key="GridCell.Tab.0.right" timestamp="1603900765244">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603900765244" />
+    <state width="1899" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.900@0.0.1920.1040" timestamp="1603878617718" />
+    <state width="1899" height="342" key="GridCell.Tab.1.bottom" timestamp="1603867948633">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1335" height="213" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603517377953" />
+    <state width="1899" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1600.900@0.0.1920.1040" timestamp="1603867948633" />
+    <state width="1899" height="342" key="GridCell.Tab.1.center" timestamp="1603867948633">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1335" height="213" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1603517377953" />
+    <state width="1899" height="342" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1600.900@0.0.1920.1040" timestamp="1603867948633" />
+    <state width="1899" height="342" key="GridCell.Tab.1.left" timestamp="1603867948633">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1335" height="213" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1603517377952" />
+    <state width="1899" height="342" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1600.900@0.0.1920.1040" timestamp="1603867948633" />
+    <state width="1899" height="342" key="GridCell.Tab.1.right" timestamp="1603867948633">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1335" height="213" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1603517377953" />
+    <state width="1899" height="342" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1600.900@0.0.1920.1040" timestamp="1603867948633" />
+    <state x="344" y="70" width="668" height="585" key="RollbackChangesDialog" timestamp="1603900050873">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="344" y="70" width="668" height="585" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603900050873" />
+    <state x="187" y="0" key="SettingsEditor" timestamp="1603611351480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="187" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603611351480" />
+    <state x="395" y="179" width="800" height="525" key="Vcs.Push.Dialog.v2" timestamp="1603900515388">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="179" width="800" height="525" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603900515388" />
+    <state x="555" y="255" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.900@0.0.1920.1040" timestamp="1603878147154" />
+    <state x="546" y="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603900389495">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="546" y="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1603900389495" />
+    <state x="768" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1600.900@0.0.1920.1040" timestamp="1603850943782" />
+  </component>
+</project>
