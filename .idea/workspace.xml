@@ -5,13 +5,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5119f441-1c68-4d6b-8e4f-2045f005456a" name="Default Changelist" comment="Переработка ДЗ по замечаниям наставника" />
+    <list default="true" id="5119f441-1c68-4d6b-8e4f-2045f005456a" name="Default Changelist" comment="init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jJDDNickcdVqAHobVeIly4kJ4c" />
@@ -247,7 +252,8 @@
     <MESSAGE value="Первые 3 задания во втором уроке" />
     <MESSAGE value="Вторые 3 задания во втором уроке" />
     <MESSAGE value="Переработка ДЗ по замечаниям наставника" />
-    <option name="LAST_COMMIT_MESSAGE" value="Переработка ДЗ по замечаниям наставника" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="466" y="122" width="424" height="481" key="FileChooserDialogImpl" timestamp="1603900745732">
@@ -258,14 +264,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="496" y="286" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1603900213665" />
-    <state x="517" y="264" key="Github.ShareDialog" timestamp="1603900330697">
+    <state x="517" y="264" key="Github.ShareDialog" timestamp="1603901040142">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="517" y="264" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1603900330697" />
-    <state x="361" y="72" width="634" height="580" key="Github.UntrackedFilesDialog" timestamp="1603611327626">
+    <state x="517" y="264" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1603901040142" />
+    <state x="361" y="72" width="634" height="580" key="Github.UntrackedFilesDialog" timestamp="1603901054729">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="361" y="72" width="634" height="580" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603611327626" />
+    <state x="361" y="72" width="634" height="580" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603901054729" />
     <state width="1345" height="172" key="GridCell.Tab.0.bottom" timestamp="1603900765244">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -314,15 +320,15 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="187" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603611351480" />
-    <state x="395" y="179" width="800" height="525" key="Vcs.Push.Dialog.v2" timestamp="1603900515388">
+    <state x="395" y="179" width="800" height="525" key="Vcs.Push.Dialog.v2" timestamp="1603900947290">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="395" y="179" width="800" height="525" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603900515388" />
+    <state x="395" y="179" width="800" height="525" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603900947290" />
     <state x="555" y="255" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.900@0.0.1920.1040" timestamp="1603878147154" />
-    <state x="546" y="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603900389495">
+    <state x="546" y="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603900957944">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="546" y="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1603900389495" />
+    <state x="546" y="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1603900957944" />
     <state x="768" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1600.900@0.0.1920.1040" timestamp="1603850943782" />
   </component>
 </project>
