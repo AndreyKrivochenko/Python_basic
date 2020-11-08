@@ -1,0 +1,5 @@
+Ivanov 30000
+Petrov 25000
+Sidorov 15000
+Kulakov 10000
+Rukaev 50000
