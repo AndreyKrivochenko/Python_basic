@@ -4,7 +4,7 @@ class ComplexNum:
         self.b = b
 
     def __str__(self):
-        return f'{self.a}{self.b:+}\033[3mj'
+        return f'{self.a}{self.b:+}\033[3mj\033[0m'
 
     def __add__(self, other):
         a = self.a + other.a
@@ -12,12 +12,8 @@ class ComplexNum:
         return ComplexNum(a, b)
 
     def __mul__(self, other):
-        a_1 = self.a * other.a
-        a_2 = self.b * other.a
-        b_1 = self.a * other.b
-        b_2 = -(self.b * other.b)
-        a = a_1 + b_2
-        b = a_2 + b_1
+        a = (self.a * other.a) + -(self.b * other.b)
+        b = (self.b * other.a) + (self.a * other.b)
         return ComplexNum(a, b)
 
 
